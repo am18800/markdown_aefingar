@@ -1,2 +1,5 @@
 # markdown_aefingar
-Æfingar í markdown málinu
+## Æfingar í markdown málinu
+
+**Geir**
+Tskóli
